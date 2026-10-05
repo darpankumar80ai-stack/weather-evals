@@ -1,0 +1,7 @@
+pytest==9.1.1
+langchain==1.4.3
+langchain-openai==1.6.7
+langsmith[pytest]==0.14.4
+agentevals==0.0.9
+openevals==0.2.0
+python-dotenv==1.2.4
